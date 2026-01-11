@@ -4387,7 +4387,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/_3dsmax.png", id:"_3dsmax"},
+		{src:"images/_3dsmax.png", id:"3dsmax"},
 		{src:"images/aftereffect.png", id:"aftereffect"},
 		{src:"images/animate.png", id:"animate"},
 		{src:"images/bioicon.png", id:"bioicon"},
@@ -4408,7 +4408,7 @@ lib.properties = {
 		{src:"images/sketch2copy.jpg", id:"sketch2copy"},
 		{src:"images/sketch3.jpg", id:"sketch3"},
 		{src:"images/sketch5.png", id:"sketch5"},
-		{src:"images/WhatsAppImage20251120at160933_c424109a.jpg", id:"WhatsAppImage20251120at160933_c424109a"}
+		
 	],
 	preloads: []
 };
